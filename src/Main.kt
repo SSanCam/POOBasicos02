@@ -1,3 +1,6 @@
+/**
+ * Función principal (main) que crea instancias de la clase Persona y realiza comparaciones entre ellas.
+ */
 fun main() {
 
     //------------- PERSONA 1 --------------------
